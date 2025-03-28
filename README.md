@@ -26,8 +26,8 @@ This project is a Raspberry Pi-based weather station that measures and displays 
 ## ThingSpeak View
 ![ThingSpeak View](images/thingspeak_display.jpg)
 
-## Hardware Setup
-![Hardware Setup](images/hardware_setup.jpg)
+## Circuit Diagram
+![Circuit Diagram](images/circuit.jpg)
 
 ## Folder Structure
 ```
