@@ -8,7 +8,7 @@ This project is a Raspberry Pi-based weather station that measures and displays 
 - **Sensors Used:**
   - BMP280: Measures atmospheric pressure.
   - DHT22: Measures temperature and humidity.
-- **Cloud Integration:** Data is uploaded to a ThingSpeak channel.
+- **Cloud Integration:** Data is uploaded to a ThingSpeak channel.  [ThingSpeak channel here](https://thingspeak.mathworks.com/channels/2896029)
 - **Future Enhancements:** Planned integration of dust and gas sensors.
 
 ## Components Required
