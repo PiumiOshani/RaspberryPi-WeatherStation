@@ -26,6 +26,8 @@ This project is a Raspberry Pi-based weather station that measures and displays 
 ## ThingSpeak View
 ![ThingSpeak View](images/thingspeak_display.jpg)
 
+[ThingSpeak channel here](https://thingspeak.mathworks.com/channels/2896029).
+
 ## Circuit Diagram
 ![Circuit Diagram](images/circuit.jpg)
 
