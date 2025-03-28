@@ -28,9 +28,9 @@ This project is a Raspberry Pi-based weather station that measures and displays 
 ## Folder Structure
 ```
 RaspberryPi-WeatherStation/
-│── src/                      # Python script
 │── docs/                     # Documentation
 │── images/                   # Project images
+│── weather_station.py        # Python script
 │── requirements.txt          # List of required Python libraries
 │── README.md                 # Project details
 │── .gitignore                # Ignore unnecessary files
