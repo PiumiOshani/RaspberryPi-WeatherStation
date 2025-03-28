@@ -35,7 +35,6 @@ RaspberryPi-WeatherStation/
 │── docs/                     # Documentation
 │── images/                   # Project images
 │── weather_station.py        # Python script
-│── requirements.txt          # Python dependencies
 │── README.md                 # Project details
 ```
 
