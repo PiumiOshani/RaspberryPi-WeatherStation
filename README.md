@@ -26,3 +26,16 @@ This project is a Raspberry Pi-based weather station that measures and displays 
 ## ThingSpeak View
 ![ThingSpeak View](images/thingspeak_display.jpg)
 
+## Hardware Setup
+![Hardware Setup](images/hardware_setup.jpg)
+
+## Folder Structure
+```
+RaspberryPi-WeatherStation/
+│── docs/                     # Documentation
+│── images/                   # Project images
+│── weather_station.py        # Python script
+│── requirements.txt          # Python dependencies
+│── README.md                 # Project details
+```
+
