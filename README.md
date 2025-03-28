@@ -36,9 +36,5 @@ RaspberryPi-WeatherStation/
 │── .gitignore                # Ignore unnecessary files
 ```
 
-## Tags
-- Raspberry Pi
-- Weather Station
-- IoT
-- ThingSpeak
-- Environmental Monitoring
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Computer-red)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-Cloud-orange)
