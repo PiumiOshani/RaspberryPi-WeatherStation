@@ -14,6 +14,7 @@ This project is a Raspberry Pi-based weather station that measures and displays 
 ## Components Required
 - Raspberry Pi 4
 - 16x2 LCD Display
+- PCF8574 expander board
 - BMP280 Sensor (Pressure)
 - DHT22 Sensor (Temperature & Humidity)
 - Jumper wires
